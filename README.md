@@ -32,8 +32,8 @@ Analisi_energia/
 - How are the renewable sources in Italy in the last 24 years? Are they increasing their share of total production? 
 
 ## Key Findings
-- Production side: Thermoelectric remains the major energy source despite its production has decreased in the recent years. Instead, renewable sources are increasing in the recent years.
-- Consumption side: Industry is the main energy-consuming sector (despite its consumption has decreased in the last 15 years). Then we have Services and Domestic. Agriculture is the smallest energy-consuming sector.
+- Production side: Thermoelectric remains the major energy source although its production has decreased in the recent years. Instead, renewable sources are increasing in the recent years.
+- Consumption side: Industry is the main energy-consuming sector (although its consumption has decreased in the last 15 years). Then we have Services and Domestic. Agriculture is the smallest energy-consuming sector.
 - Regional Coverage: only three regions (**Basilicata**, **Valle d'Aosta**, **Trentino Alto-Adige**) cover their energy demand by renewable sources.
 
 ## Visualizations
